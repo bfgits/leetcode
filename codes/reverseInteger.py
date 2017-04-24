@@ -48,5 +48,5 @@ class Solution(object):
 
 if __name__ == '__main__':
     s = Solution()
-    s1 = s.reverse(-500389000340000)
+    s1 = s.reverse(1534236469)
     print(s1)
